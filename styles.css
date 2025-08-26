@@ -58,10 +58,9 @@ main {
 
 .hero h1 {
     color: #0b1c12;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 900;
     margin: 20px 0 8px 0;
-    text-transform: uppercase;
     text-shadow: 4px 4px 0px #00a545;
 }
 
